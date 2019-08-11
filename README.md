@@ -1,6 +1,6 @@
+![GitHub Logo](/images/Coverpic.jpg | width=100)
 
 # NYC_Property_Sale
-![GitHub Logo](/images/Coverpic.jpg | width=100)
 A simple Linear Regression model to predict log_price of New York City.
 
 ## Getting Started
